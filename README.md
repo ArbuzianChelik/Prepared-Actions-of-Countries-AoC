@@ -1,3 +1,5 @@
+To compile: dotnet build -c Release
+
 # PAoC (Prepared Actions of Countries) — Guide for Scenario Developers
 
 PAoC lets you script actions that countries perform automatically on specific in-game dates. Just drop a `PAoC.txt` file into your scenario folder, next to your `.aoc` save file.
